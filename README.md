@@ -53,7 +53,7 @@
 
 ```mermaid
 flowchart TD
-    A([我想练：面试自我介绍]) --> B[给一个框架<br/>PREP / STAR / SCQA]
+    A([说想练什么]) --> B[给一个框架<br/>PREP / STAR / SCQA]
     B --> C[你自己说]
     C -->|卡住了| D[递一档提示<br/>不主动升级]
     D --> C
