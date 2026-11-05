@@ -41,13 +41,25 @@
 | 进度感 | 文字 | 花园里的陪伴花随练习生长 |
 | 需要装什么 | 一个文件夹 | 打开链接即可 |
 
-<table>
-<tr>
-<td width="33%"><img src="docs/site-framework.jpg" alt="给框架"><br><sub><b>① 给框架</b>：PREP 四格，只问不答</sub></td>
-<td width="33%"><img src="docs/site-hint.jpg" alt="给提示"><br><sub><b>② 卡住了</b>：一次只给一档，标出是第几档</sub></td>
-<td width="33%"><img src="docs/site-review.jpg" alt="四维评分"><br><sub><b>③ 说完了</b>：四维雷达 + 最弱一维</sub></td>
-</tr>
-</table>
+<div align="center">
+
+<img src="docs/site-framework.jpg" alt="给框架：PREP 四格，只问不答" width="820">
+
+<sub><b>① 给框架</b>　PREP 四格，只问不答</sub>
+
+<br><br>
+
+<img src="docs/site-hint.jpg" alt="给提示：一次只给一档，标出是第几档" width="820">
+
+<sub><b>② 卡住了</b>　一次只给一档，并把档位写在脸上；这里的「上周五深夜 · 回完到一点」取自你刚说的话</sub>
+
+<br><br>
+
+<img src="docs/site-review.jpg" alt="四维评分：雷达图、维度得分与最弱一维" width="820">
+
+<sub><b>③ 说完了</b>　四维雷达 + 逐维得分，右栏直接给最弱那一维怎么改</sub>
+
+</div>
 
 ## 一次练习长什么样
 
